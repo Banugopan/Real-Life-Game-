@@ -38,6 +38,8 @@ The project includes:
   - **date_objectifs** and **objectifs**
 - All other tables are standalone, used for specific visuals and calculations.
 
+<img width="1918" height="1013" alt="relation_pbi" src="https://github.com/user-attachments/assets/b8102029-9a79-4a46-b2b8-dd8ce30cf49b" />
+
 ---
 
 ## 4. Visualization Components
