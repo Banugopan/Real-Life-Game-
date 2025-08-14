@@ -28,6 +28,7 @@ The project includes:
   3. **objectifs** – List of all objectives with their category (Pro or Personal).
   4. **objectif_vacances** – Specific objectives related to planned vacations.
   5. **vacances** – Records of planned vacation dates.
+<img width="1930" height="970" alt="organisation_mesures" src="https://github.com/user-attachments/assets/d81780af-27f0-47cc-b0d9-f46702c30774" />
 
 ---
 
