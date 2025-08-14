@@ -3,7 +3,7 @@
 ## Technologies Used
 - **Database & Data Model**: Power BI Data Model  
 - **Data Transformation & Preparation**: Power Query  
-- **Data Modeling & Relationships**: Star Schema principles  
+- **Data Modeling & Relationships**: Simple relational links between tables (no specific schema model) 
 - **DAX**: For calculated measures and KPIs  
 - **Data Visualization**: Power BI native visuals & custom visuals (Play Axis)  
 
